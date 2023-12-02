@@ -1,3 +1,3 @@
-# Introduction
+# Mini Game - 1
 
-Mini Game - 1
+Its a football dribbling game
